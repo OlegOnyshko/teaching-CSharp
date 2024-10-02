@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\teaching\bin\Debug\net8.0\teaching.exe
+C:\Users\Admin\Desktop\teaching\bin\Debug\net8.0\teaching.deps.json
+C:\Users\Admin\Desktop\teaching\bin\Debug\net8.0\teaching.runtimeconfig.json
+C:\Users\Admin\Desktop\teaching\bin\Debug\net8.0\teaching.dll
+C:\Users\Admin\Desktop\teaching\bin\Debug\net8.0\teaching.pdb
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\teaching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\teaching.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\teaching.AssemblyInfo.cs
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\teaching.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\teaching.sourcelink.json
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\teaching.dll
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\refint\teaching.dll
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\teaching.pdb
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\teaching.genruntimeconfig.cache
+C:\Users\Admin\Desktop\teaching\obj\Debug\net8.0\ref\teaching.dll
